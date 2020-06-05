@@ -10,6 +10,8 @@ Scripts are in the 'scripts' directory and data referenced in the scripts are in
 
 **03_MonocleAnalysis_48hr.R** - Pseudotime trajectory analysis for defense and mucus secretory populations from the acute (48 hour) IL-13 single cell sequencing experiment.
 
-**04_WGCNA_gala.R** - WGNCA for the GALA dataset to infer a type 2-high network.
+**04_Analysis_solubleSecretome.r** - Analysis of soluble secretome data.
 
-**05_Analysis_gala.R** - Plotting and differential expression analysis for the GALA dataset.
+**05_WGCNA_gala.R** - WGNCA for the GALA dataset to infer a type 2-high network.
+
+**06_Analysis_gala.R** - Plotting and differential expression analysis for the GALA dataset.
