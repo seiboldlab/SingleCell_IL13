@@ -12,6 +12,8 @@ Scripts are in the 'scripts' directory and data referenced in the scripts are in
 
 **04_Analysis_solubleSecretome.r** - Analysis of soluble secretome data.
 
-**05_WGCNA_gala.R** - WGNCA for the GALA dataset to infer a type 2-high network.
+**05_Analysis_solubleSecretome.r** - Analysis of mucus secretome data.
 
-**06_Analysis_gala.R** - Plotting and differential expression analysis for the GALA dataset.
+**06_WGCNA_gala.R** - WGNCA for the GALA dataset to infer a type 2-high network.
+
+**07_Analysis_gala.R** - Plotting and differential expression analysis for the GALA dataset.
