@@ -14,6 +14,8 @@ Scripts are in the 'scripts' directory and data referenced in the scripts are in
 
 **05_Analysis_mucusSecretome.r** - Analysis of mucus secretome data.
 
-**06_WGCNA_gala.R** - WGNCA for the GALA dataset to infer a type 2-high network.
+**06_Analysis_CBF.r** - Analysis of ciliary beat frequency data.
 
-**07_Analysis_gala.R** - Plotting and differential expression analysis for the GALA dataset.
+**07_WGCNA_gala.R** - WGNCA for the GALA dataset to infer a type 2-high network.
+
+**08_Analysis_gala.R** - Plotting and differential expression analysis for the GALA dataset.
