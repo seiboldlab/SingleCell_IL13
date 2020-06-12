@@ -1,5 +1,4 @@
 ####################GALA FIGURE 7
-library(beeswarm)
 library(Seurat)
 library(plotrix)
 library(heatmap3)
